@@ -18,7 +18,7 @@ O **ScreenMatch** é um projeto front-end de uma aplicação para navegação e 
   
 ## Demonstração
   
-  ![Demonstração do FIPECar](src/main/java/br/com/robsonlmds/assets/video-fipecar.gif)
+  ![Random pharses GIF](assets/randomPharses.gif)
 </div>
 
 ## 📋 Funcionalidades
