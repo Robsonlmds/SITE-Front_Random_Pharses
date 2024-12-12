@@ -5,7 +5,7 @@
   </a>
   
 <h5 align="center"> 
-    <b>✅ Completo</b> | <b>✅ Responsivo< /b>
+    <b>✅ Completo</b> | <b>✅ Responsivo< </b>
 </h5>
     
 </div>
