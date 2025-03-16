@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=110&lines=Front+-+ScreenMatch" 
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=110&lines=Random+Pharses" 
     alt="Typing SVG" />
   </a>
   
@@ -9,35 +9,17 @@
 </h5>
     
 </div>
-
-O **ScreenMatch** é um projeto front-end de uma aplicação para navegação e descoberta de filmes e séries. Com um design moderno e interativo, ele permite explorar lançamentos, títulos populares e categorias de conteúdo.
-
----
-
+O **Random Pharses** é um projeto front-end de uma aplicação que exibe frases aleatórias de filmes e séries. Com um design moderno e interativo, ele permite explorar e compartilhar citações icônicas armazenadas em um banco de dados.
 <div align="center">
   
 ## Demonstração
   
   ![Random pharses GIF](assets/randomPharses.gif)
 </div>
-
-## 📋 Funcionalidades
-
-1. **Cabeçalho com Navegação**  
-   - Inclui uma logo clicável para retornar à página inicial.
-   - Um seletor de categorias para filtrar títulos.
-   - Ícones para busca, notificações e perfil.
-
-2. **Seções Interativas**  
-   - **Lançamentos no ScreenMatch**: Exibe as últimas adições.
-   - **Títulos Populares**: Destaques em popularidade.
-   - **Séries**: Conteúdos organizados por formato.
-   - **Categorias Pesquisadas**: Exibição dinâmica de títulos filtrados.
-
-3. **Estilo Responsivo**  
-   - Interface adaptada para diferentes dispositivos usando CSS moderno.
-
----
+<div align="center">
+  
+  ![Random quotes GIF](assets/randomQuotes.gif)
+</div>
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -53,6 +35,10 @@ O **ScreenMatch** é um projeto front-end de uma aplicação para navegação e 
 - **JavaScript (ES6)**  
   Utilização de módulos para interatividade e manipulação de DOM.  
   Arquivo principal: `scripts/index.js`.
+
+- **Banco de Dados (exemplo)**  
+  - **Postgresql**: Armazenamento de frases e metadados (autor, filme, gênero, etc.).
+  - **API** para buscar e exibir frases aleatórias do banco de dados.
 
 - **Google Fonts**  
   Fontes utilizadas:
@@ -70,7 +56,6 @@ O **ScreenMatch** é um projeto front-end de uma aplicação para navegação e 
 ### Cores (exemplo no CSS)
 - Paleta moderna e amigável para leitura em telas.
 
----
 
 <div align="center">
 
