@@ -9,7 +9,7 @@
 </h5>
     
 </div>
-O **Random Pharses** é um projeto front-end de uma aplicação que exibe frases aleatórias de filmes e séries. Com um design moderno e interativo, ele permite explorar e compartilhar citações icônicas armazenadas em um banco de dados.
+O Random Pharses é um projeto front-end de uma aplicação que exibe frases aleatórias de filmes e séries. Com um design moderno e interativo, ele permite explorar e compartilhar citações icônicas armazenadas em um banco de dados.
 <div align="center">
   
 ## Demonstração
